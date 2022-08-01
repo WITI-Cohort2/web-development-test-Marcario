@@ -1,14 +1,14 @@
 NALUBWAMA CHRISTINE REG.027
 
 a.Elements are designators that are enclosed with both opening and closing tags. 
-b.Attributes are addition 
-d.Semantic elements 
+b.Attributes are properties that add addition meaningsto elements eg color, font size etc 
+d.Semantic elements are elements with no meaning for example <sections>,<main>etc
 
 c. Selectors are tools that identifies the html elements for example <a>,<p>,<emb>
 
-
+d.
 e.Web accessibility is the ability by which web pages and web sites are made accessible for all people especially those with disabilities for example the those with blindness.
-d.Web sever is acomputer that keeps web pages namely google chrome,firefox among others
+f.Web sever is acomputer that keeps web pages namely google chrome,firefox among others
 
 
 
